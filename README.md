@@ -45,11 +45,15 @@ Acceptance criteria:
 
 # How run this project?
 
-JUst downlaod the project or import with Eclipes and run the file below:
+Just downlaod the project or import with Eclipes and run the file below:
 
 
 ```bash
 Game.java
 
 ```
+
+The program will show you the path what do to and how to proceed. 
+
+
 
