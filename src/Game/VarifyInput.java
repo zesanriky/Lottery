@@ -50,11 +50,6 @@ public class VarifyInput {
 
 	}
 
-	public static void myPrintln(int counter2) {
-		counter++;
-		System.out.println("\n" + "You have entered your" + "" + " " + counter2 + "" + " number");
-	}
-
 	static StandardLottery see = new StandardLottery();
 
 	public static void deleteNumbers() throws IOException {
@@ -101,11 +96,4 @@ public class VarifyInput {
 		in.close();
 
 	}
-
-	public static void main(String[] args) throws IOException {
-
-		calculateAll();
-
-	}
-
 }
