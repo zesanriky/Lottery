@@ -45,7 +45,7 @@ Acceptance criteria:
 
 # How run this project?
 
-Just downlaod the project or import with Eclipes and run the file below:
+The easiest way is, just downlaod the project or import with Eclipes and run the file below:
 
 
 ```bash
@@ -55,5 +55,5 @@ Game.java
 
 The program will show you the path what do to and how to proceed. 
 
-
+# I don't recommend to run from Windows/Linux console because there might be many issues regarding CLASSPATH.   
 
