@@ -45,7 +45,7 @@ Acceptance criteria:
 
 # How run this project?
 
-The easiest way is, just downlaod the project or import with Eclipes and run the file below:
+The easiest way is, just download the project or import with Eclipes and run the file below:
 
 
 ```bash
