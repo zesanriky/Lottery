@@ -13,34 +13,34 @@ User stories derived:
 
 Acceptance criterion:
 
-As a call and a means of presentation, at least the command Line / terminal line can be used. 
+- As a call and a means of presentation, at least the command Line / terminal line can be used. 
 
-As a lottery player, I would like to determine whether a special series of bets for Lotto 6aus49 or one for Eurojackpot (5aus50 plus 2aus10) is generated.
-
-
-Acceptance criteria:
-
-The selection of the game for which the betting series is to be generated is selected using fixed name parameters
-
-If this parameter is not defined, a lottery line should be selected for Lotto 6aus49
-
-If an invalid parameter is specified, an error message is output. The error message contains the valid name parameters.
-
-As a lottery player, I would like to enter up to six unlucky numbers that are excluded when generating the betting series.
+- As a lottery player, I would like to determine whether a special series of bets for Lotto 6aus49 or one for Eurojackpot (5aus50 plus 2aus10) is generated.
 
 
 Acceptance criteria:
 
- The misfortune numbers are transferred as call parameters
-The entered unlucky numbers are checked whether they are within the limits of the valid number range.
-If an invalid unlucky number is specified, an error message is issued. This error message should indicate the valid number range.
-The unlucky numbers are saved so that they can also be taken into account the next time they are used (after closing the application).
-The unlucky  numbers will be considered regardless of the lottery
-As a lottery player, I want to be able to set new unlucky numbers.
-As a lottery player, I would like to be able to delete the unlucky numbers.
-As a lottery player, I want the randomly determined series of bets to be output in such a way that I can simply transfer them.
+- The selection of the game for which the betting series is to be generated is selected using fixed name parameters
 
-Acceptance criterion: Sorted, ascending order of the numbers of the betting series, recognizable separation for the Eurojackpot betting series first 5 out of 50 then 2 out of 10.
+- If this parameter is not defined, a lottery line should be selected for Lotto 6aus49
+
+- If an invalid parameter is specified, an error message is output. The error message contains the valid name parameters.
+
+- As a lottery player, I would like to enter up to six unlucky numbers that are excluded when generating the betting series.
+
+
+Acceptance criteria:
+
+- The misfortune numbers are transferred as call parameters
+- The entered unlucky numbers are checked whether they are within the limits of the valid number range.
+- If an invalid unlucky number is specified, an error message is issued. This error message should indicate the valid number range.
+- The unlucky numbers are saved so that they can also be taken into account the next time they are used (after closing the application).
+- The unlucky  numbers will be considered regardless of the lottery
+- As a lottery player, I want to be able to set new unlucky numbers.
+- As a lottery player, I would like to be able to delete the unlucky numbers.
+- As a lottery player, I want the randomly determined series of bets to be output in such a way that I can simply transfer them.
+
+- Acceptance criterion: Sorted, ascending order of the numbers of the betting series, recognizable separation for the Eurojackpot betting series first 5 out of 50 then 2 out of 10.
 
 
 
