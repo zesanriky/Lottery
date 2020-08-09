@@ -1,7 +1,7 @@
 # Lottery
 
 ------------------------------------------------------------------------
- ** Initial situation**
+ **Initial situation**
 
 Mr. Keller (57) regularly plays the lottery (6aus49) and occasionally also the Euro Jackpot. Mr. Keller keeps up with the times. Of course he plays online. He plays on the website of his state lottery company (westlotto.de) with his laptop. However, the Quicktipp generators offered there do not offer the functionality that he would like. Mr. Keller would like to ensure during the generation
 that his misfortune numbers don't become part of the random line of tips. He is annoyed a little every time the generated Quicktipp tip series contains one of his three unfortunate numbers. Every month his unlucky numbers, which he takes from the horoscope of his favorite magazine, also change. Mr. Keller asked us to provide him with a small Java application that he can run on his laptop in order to generate his line of tips for the next game participation. We thought it was an easy task. And because Mr. Keller is so nice, we would like to help him. Please help us, Mr. Keller help. From another conversation with Mr. Keller we have the following requirements in the form of
@@ -53,6 +53,8 @@ Game.java
 ```
 
 The program will show you the path what do to and how to proceed. 
+
+RED APPLE (&#x1F34E;): 
 
  I don't recommend to run from Windows/Linux console because there might be many issues regarding CLASSPATH.   
 
