@@ -44,17 +44,30 @@ Acceptance criteria:
 
 # How run this project?
 
-The easiest way is, just download the project or import with Eclipes and run the file below:
+The easiest way is, just download the project or import with Eclipes:
 
+Don't forget to set the package name as 
+
+
+```bash
+Game
+
+```
+Then the run lauching file below:
 
 ```bash
 Game.java
 
 ```
 
+
+
+
 The program will show you the path what do to and how to proceed. 
 
-RED APPLE (&#x1F34E;): 
+```diff
+- I don't recommend to run from Windows/Linux console because there might be many issues regarding CLASSPATH.  
+```
 
- I don't recommend to run from Windows/Linux console because there might be many issues regarding CLASSPATH.   
+  
 
