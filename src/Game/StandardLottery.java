@@ -418,7 +418,7 @@ class StandardLottery implements RegularLotteryImpl {
 				System.out
 						.println("If you see after input the same number printed,\n it means you have already used it");
 
-				new FristJackpot().jackpotPrimary();
+				new SecondJackpot().jackpotPrimary();
 
 			} else {
 
