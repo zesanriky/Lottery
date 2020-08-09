@@ -44,7 +44,7 @@ Acceptance criteria:
 # UML
 
 <p align="center">
-  <img src="https://github.com/zesanriky/Lottery/blob/master/UML.png" width="600" title="hover text">
+  <img src="https://github.com/zesanriky/Lottery/blob/master/UML.png" width="600" title="hover text"> 
 </p> 
 
 
