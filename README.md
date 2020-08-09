@@ -43,10 +43,7 @@ Acceptance criteria:
 
 # UML
 
-<p align="center">
-  <img src="/home/riky/Desktop/UML.png" width="350" title="hover text">
-  <img src="/home/riky/Desktop/UML.png" width="350" alt="accessibility text">
-</p>
+![Screenshot](/home/riky/Desktop/UML.png) 
 
 
 # How run this project?
