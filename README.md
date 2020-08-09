@@ -66,8 +66,7 @@ Game.java
 The program will show you the path what do to and how to proceed. 
 
 ```diff
-I don't recommend to run from Windows/Linux console because 
-there might be many issues regarding CLASSPATH.  
+I don't recommend to run from Windows/Linux console because there might be many issues regarding CLASSPATH.  
 ```
 
   
