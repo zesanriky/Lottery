@@ -81,7 +81,7 @@ class StandardLottery implements RegularLotteryImpl {
 						System.out.println("Proceeding.....");
 
 						if (number1 == lot[0]) {
-							System.out.println("you are so lucky you have won lottery on the first try !");
+							System.out.println("Congratulation! you are so lucky you have won lottery on the first try !");
 							System.exit(0);
 						}
 
@@ -125,7 +125,7 @@ class StandardLottery implements RegularLotteryImpl {
 								if (number2 != number1) {
 									if (number2 == lot[1]) {
 
-										System.out.println("you have won lottery!");
+										System.out.println("Congratulation! you have won lottery!");
 										System.exit(0);
 									}
 
@@ -174,7 +174,7 @@ class StandardLottery implements RegularLotteryImpl {
 
 										if (number3 != number1 && number3 != number2) {
 											if (number3 == lot[2]) {
-												System.out.println("You have won lottery!");
+												System.out.println("Congratulation! You have won lottery!");
 												System.exit(0);
 											} else
 												System.out.println(
@@ -219,7 +219,7 @@ class StandardLottery implements RegularLotteryImpl {
 
 												if (number4 != number1 && number4 != number2 && number4 != number3) {
 													if (number4 == lot[3]) {
-														System.out.println("You have won lottery!");
+														System.out.println("Congratulation! You have won lottery!");
 														System.exit(0);
 													} else
 														System.out.println(
@@ -271,7 +271,7 @@ class StandardLottery implements RegularLotteryImpl {
 														if (number5 != number1 && number5 != number2
 																&& number5 != number3 && number5 != number4) {
 															if (number5 == lot[4]) {
-																System.out.println("You have won lottery!");
+																System.out.println("Congratulation! You have won lottery!");
 																System.exit(0);
 															} else
 																System.out.println(
@@ -325,7 +325,7 @@ class StandardLottery implements RegularLotteryImpl {
 
 																	if (number6 == lot[5]) {
 																		System.out.println(
-																				"What a chance, at last try  You have won lottery!");
+																				"Congratulation! What a chance, at last try  You have won lottery!");
 																		System.exit(0);
 																	} else
 																		System.out.println(
