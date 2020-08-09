@@ -58,7 +58,7 @@ public class SecondJackpot implements JackpotSecondaryImpl {
 					System.out.println("Proceeding.....");
 
 					if (number1 == lot[0]) {
-						System.out.println("you are so lucky you have won lottery on the first try !");
+						System.out.println("Congratulation! you are so lucky you have won lottery on the first try !");
 
 						System.exit(0);
 					}
@@ -103,7 +103,7 @@ public class SecondJackpot implements JackpotSecondaryImpl {
 							if (number2 != number1) {
 
 								if (number2 == lot[1]) {
-									System.out.println("What a chance, at last try  You have won lottery!");
+									System.out.println("Congratulation! What a chance, at last try  You have won lottery!");
 
 									System.exit(0);
 								} else
