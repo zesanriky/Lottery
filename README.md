@@ -43,6 +43,10 @@ Acceptance criteria:
 
 # UML
 
+<p align="center">
+  <img src="https://github.com/zesanriky/Lottery/blob/master/UML.png" width="600" title="hover text"> 
+</p> 
+
 
 # How to run this project?
 
