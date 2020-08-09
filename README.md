@@ -43,8 +43,7 @@ Acceptance criteria:
 
 # UML
 
-![Screenshot](/home/riky/Desktop/UML.png) 
-
+![alt text](https://github.com/zesanriky/Lottery/blob/master/UML.png) 
 
 # How run this project?
 
