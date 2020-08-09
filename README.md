@@ -41,6 +41,13 @@ Acceptance criteria:
 
 - Acceptance criterion: Sorted, ascending order of the numbers of the betting series, recognizable separation for the Eurojackpot betting series first 5 out of 50 then 2 out of 10.
 
+# UML
+
+<p align="center">
+  <img src="/home/riky/Desktop/UML.png" width="350" title="hover text">
+  <img src="/home/riky/Desktop/UML.png" width="350" alt="accessibility text">
+</p>
+
 
 # How run this project?
 
