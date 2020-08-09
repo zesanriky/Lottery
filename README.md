@@ -1,4 +1,4 @@
-# Lottery
+# Lottery Gaming Application
 
 ------------------------------------------------------------------------
  **Initial situation**
@@ -48,7 +48,7 @@ Acceptance criteria:
 </p> 
 
 
-# How run this project?
+# How to run this project?
 
 The easiest way is, just download the project or import with Eclipes:
 
